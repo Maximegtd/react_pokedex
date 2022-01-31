@@ -10,11 +10,11 @@
 
 .homepageBG {
   background-color: rgb(240, 240, 240);
-  padding: 5rem 2rem;
+  padding: 5rem 7rem;
 }
 
 .pokemonpageBG{
-  padding: 2rem;
+  padding: 10rem;
   min-height: 100vh;
 }
 
